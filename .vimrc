@@ -31,7 +31,7 @@ set expandtab           " use spaces for tabs
 set softtabstop=2       " 2 space tab
 set shiftwidth=2
 set modelines=1
-# set colorcolumn=80
+" set colorcolumn=80
 filetype plugin on
 set autoindent
 """""""""""""
